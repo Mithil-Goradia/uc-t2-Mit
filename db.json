@@ -1,0 +1,27 @@
+{
+  "movies": [
+    {
+      "title": "Interstellar",
+      "genre": "Sci-fi",
+      "platform": "netflix",
+      "id": "1",
+      "favorite": true,
+      "status": false
+    },
+    {
+      "title": "Jab We Met",
+      "genre": "Rom-com",
+      "platform": "Sony Liv",
+      "id": "2",
+      "status": false
+    },
+    {
+      "id": "ffe0",
+      "title": "John Wick",
+      "genre": "action",
+      "platform": "Netflix",
+      "status": false,
+      "favorite": false
+    }
+  ]
+}

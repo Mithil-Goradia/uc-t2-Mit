@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-cover bg-center bg-no-repeat;
+  background-image: url('./back.png');
+  background-attachment: fixed;
+  height: 100vh;
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  color: #C8ACD6;
+}
